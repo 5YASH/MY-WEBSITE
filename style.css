@@ -1,0 +1,22 @@
+#APPS{
+    text-align: center;
+    
+}
+h1{
+    font-size: 50px;
+    color: brown;
+    font-family: fantasy;
+}
+#GAMES{
+    text-align: center;
+}
+img{
+    transition: transform .2s;
+    
+}
+img:hover{
+    transform: scale(0.9);
+}
+#chatbot{
+    text-align: center;
+}
